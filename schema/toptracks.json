@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "album":{
+        "album_type":"ALBUM",
+        "artists":[
+          {
+            "external_urls":{
+              "spotify":"https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            },
+            "name":"Bad Bunny"
+          }
+        ],
+        "external_urls":{
+          "spotify":"https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        },
+        "images":[
+          {
+            "height":640,
+            "url":"https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+            "width":640
+          }
+        ],
+        "name":"Un Verano Sin Ti"
+      },
+      "external_urls":{
+        "spotify":"https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+      },
+      "name":"Moscow Mule",
+      "popularity":84,
+      "preview_url":"https://p.scdn.co/mp3-preview/77b12f38abcff65705166d67b5657f70cd890635?cid=33e34aef0ac34bb2be3ca751252b16ff"
+    }
+  ]
+}
