@@ -4,7 +4,7 @@ import static spot.funciones.SpotifyUsername.getSpotifyUsername;
 import static spot.funciones.TopTracks.getTopTracks;
 import static spot.login.MainLogin.*;
 
-public class SpotifyAuthorization {
+public class Main {
 
     public static String authorizationCode;
 
